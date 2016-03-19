@@ -1,3 +1,5 @@
+___deprecated___
+
 # Tcm
 [Tieba](http://tieba.baidu.com/) component manager.
 
